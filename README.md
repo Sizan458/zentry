@@ -1,4 +1,5 @@
 
+
 # Zentry
 
 It is a simple frontend of copy 3D gameing webside landing page
@@ -18,7 +19,7 @@ It is a simple frontend of copy 3D gameing webside landing page
 To deploy this project run
 
 ```bash
-  npm run deploy
+  npm run dev
 ```
 
 
